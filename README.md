@@ -1,4 +1,6 @@
 # Movie-Recommendation-System-Using-Python
+![Uploading image.png…]()
+
  In this python project where using Pandas library we will find correlation and created basic Movie Recommender System with Python.
 
 * I developed a **Movie Recommendation System** in Python to suggest popular movies based on ratings and vote counts. The project involved collecting and cleaning a movie dataset containing titles, genres, ratings, and vote information. A **popularity score** was calculated for each movie to rank them, highlighting the most trending and highly-rated films. I created a simple **user interface using Streamlit** to display the recommended movies in an organized layout. This project helped me understand real-world data handling, basic recommendation logic, and building a Python-based front-end, providing a foundation for more advanced recommendation techniques.
